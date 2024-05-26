@@ -21,9 +21,9 @@
 
 ### Other:
 
-| Django | Git | PSQL | Docker |
-|:------:|:---:|:----:|:------:|
-| <img width="64" height="64" src="./media/django.png" /> | <img width="64" height="64" src="./media/git.svg" /> | <img width="64" height="64" src="./media/postgresql.svg" /> | <img width="64" height="64" src="./media/docker.png" /> |
+| Django | AdaWS | Git | PSQL | Docker |
+|:------:|:-----:|:---:|:----:|:------:|
+| <img width="64" height="64" src="./media/django.png" /> | <img width="64" height="64" src="./media/ada-aws.png" /> | <img width="64" height="64" src="./media/git.svg" /> | <img width="64" height="64" src="./media/postgresql.svg" /> | <img width="64" height="64" src="./media/docker.png" /> |
 
 ---
 

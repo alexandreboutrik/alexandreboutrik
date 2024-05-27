@@ -49,6 +49,16 @@ Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="http
 
 ---
 
+<p>
+    <img width="128" height="128" align="left" src="./media/ada-oil.png" />
+</p>
+
+### AUI &nbsp;<img width="16" height="16" src="./media/ada.png" />
+
+<a href="https://github.com/alexandreboutrik/aui">AUI</a> is a very simple Text-based User Interface (TUI) for Ada written in Ada. It is still in a very early development stage and it lacks technologies like multiple buffers - it writes directly to the standard output using ASCII escape codes.
+
+---
+
 ### Github stats:
 
 <div class="container">

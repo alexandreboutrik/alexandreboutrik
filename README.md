@@ -29,6 +29,8 @@
 
 ## Public Projects and Repositories
 
+### Stable release
+
 <p>
     <img width="128" height="128" align="left" src="./media/lefrata.png" />
 </p>
@@ -48,6 +50,8 @@
 Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="https://github.com/alexandreboutrik/maratona-src">maratona-src</a> repositories have learning purposes. I use them to learn more about competitive programming, data structures, algorithms and new languages (by solving problems in that language).
 
 ---
+
+### Early development phase
 
 <p>
     <img width="128" height="128" align="left" src="./media/ada-oil.png" />

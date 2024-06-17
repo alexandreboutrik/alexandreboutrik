@@ -63,6 +63,16 @@ Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="http
 
 ---
 
+<p>
+    <img width="128" height="128" align="left" src="./media/phoenix.png" />
+</p>
+
+### Phoenix BC &nbsp;<img width="16" height="16" src="./media/c-original.svg" />  
+
+<a href="https://github.com/alexandreboutrik/phoenix-bc">Phoenix BC</a> is a tool designed to verify if a program's behavior matches expected outputs. It executes automated tests by providing specific inputs and comparing the generated outputs against the expected results.
+
+---
+
 ### Github stats:
 
 <div class="container">

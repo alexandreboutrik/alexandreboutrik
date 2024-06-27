@@ -5,28 +5,6 @@
 
 ---
 
-## Technologies
-
-### Languages:
-
-| C99 | Ada | Rust | Python | Perl |
-|:---:|:---:|:------:|:----:|:----:|
-| <img width="64" height="64" src="./media/c-original.svg" /> | <img width="64" height="64" src="./media/ada.png" /> | <img width="64" height="64" src="./media/rust.png" /> | <img width="64" height="64" src="./media/python.svg" /> | <img width="64" height="64" src="./media/perl.png" /> |
-
-### OS:
-
-| Gentoo | OBSD | NixOS |
-|:------:|:----:|:-----:|
-| <img width="64" height="64" src="./media/gentoo.svg" /> | <img width="64" height="64" src="./media/openbsd.png" /> | <img width="64" height="64" src="./media/nix.png" /> |
-
-### Other:
-
-| Django | AdaWS | Git | PSQL | Docker |
-|:------:|:-----:|:---:|:----:|:------:|
-| <img width="64" height="64" src="./media/django.png" /> | <img width="64" height="64" src="./media/ada-aws.png" /> | <img width="64" height="64" src="./media/git.svg" /> | <img width="64" height="64" src="./media/postgresql.svg" /> | <img width="64" height="64" src="./media/docker.png" /> |
-
----
-
 ## Public Projects and Repositories
 
 ### Stable release
@@ -70,6 +48,28 @@ Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="http
 ### AUI &nbsp;<img width="16" height="16" src="./media/ada.png" />
 
 <a href="https://github.com/alexandreboutrik/aui">AUI</a> is a very simple Text-based User Interface (TUI) for Ada written in Ada. It is still in a very early development stage and it lacks technologies like multiple buffers - it writes directly to the standard output using ASCII escape codes.
+
+---
+
+## Technologies
+
+### Languages:
+
+| C99 | Ada | Rust | Python | Perl |
+|:---:|:---:|:------:|:----:|:----:|
+| <img width="64" height="64" src="./media/c-original.svg" /> | <img width="64" height="64" src="./media/ada.png" /> | <img width="64" height="64" src="./media/rust.png" /> | <img width="64" height="64" src="./media/python.svg" /> | <img width="64" height="64" src="./media/perl.png" /> |
+
+### OS:
+
+| Gentoo | OBSD | NixOS |
+|:------:|:----:|:-----:|
+| <img width="64" height="64" src="./media/gentoo.svg" /> | <img width="64" height="64" src="./media/openbsd.png" /> | <img width="64" height="64" src="./media/nix.png" /> |
+
+### Other:
+
+| Django | AdaWS | Git | PSQL | Docker |
+|:------:|:-----:|:---:|:----:|:------:|
+| <img width="64" height="64" src="./media/django.png" /> | <img width="64" height="64" src="./media/ada-aws.png" /> | <img width="64" height="64" src="./media/git.svg" /> | <img width="64" height="64" src="./media/postgresql.svg" /> | <img width="64" height="64" src="./media/docker.png" /> |
 
 ---
 

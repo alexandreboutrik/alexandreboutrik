@@ -55,9 +55,9 @@ Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="http
 
 ### Languages:
 
-| C99 | Ada | Rust | Python | Perl |
-|:---:|:---:|:------:|:----:|:----:|
-| <img width="64" height="64" src="./media/c-original.svg" /> | <img width="64" height="64" src="./media/ada.png" /> | <img width="64" height="64" src="./media/rust.png" /> | <img width="64" height="64" src="./media/python.svg" /> | <img width="64" height="64" src="./media/perl.png" /> |
+| C99 | Ada | Rust | Go | Python | Perl |
+|:---:|:---:|:----:|:--:|:------:|:----:|
+| <img width="64" height="64" src="./media/c-original.svg" /> | <img width="64" height="64" src="./media/ada.png" /> | <img width="64" height="64" src="./media/rust.png" /> | <img width="64" height="64" src="./media/go.png" /> | <img width="64" height="64" src="./media/python.svg" /> | <img width="64" height="64" src="./media/perl.png" /> |
 
 ### OS:
 
@@ -67,9 +67,9 @@ Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="http
 
 ### Other:
 
-| Django | AdaWS | Git | PSQL | Docker |
-|:------:|:-----:|:---:|:----:|:------:|
-| <img width="64" height="64" src="./media/django.png" /> | <img width="64" height="64" src="./media/ada-aws.png" /> | <img width="64" height="64" src="./media/git.svg" /> | <img width="64" height="64" src="./media/postgresql.svg" /> | <img width="64" height="64" src="./media/docker.png" /> |
+| Django | AdaWS | Gin | Git | PSQL | Docker |
+|:------:|:-----:|:---:|:---:|:----:|:------:|
+| <img width="64" height="64" src="./media/django.png" /> | <img width="64" height="64" src="./media/ada-aws.png" /> | <img width="64" height="64" src="./media/gin.png" /> | <img width="64" height="64" src="./media/git.svg" /> | <img width="64" height="64" src="./media/postgresql.svg" /> | <img width="64" height="64" src="./media/docker.png" /> |
 
 ---
 

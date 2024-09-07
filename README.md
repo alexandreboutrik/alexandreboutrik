@@ -3,8 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-alexandreboutrik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-boutrik/)](https://www.linkedin.com/in/alexandre-boutrik/)
 [![Instagram Badge](https://img.shields.io/badge/-alexboutrik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/alexboutrik/)](https://www.instagram.com/alexboutrik/)
 
----
-
 ## Public Projects and Repositories
 
 ### Stable release
@@ -19,27 +17,19 @@
 
 ---
 
+### Beta release
+
 <p>
-    <img width="128" height="128" align="left" src="./media/graph.png" />
+    <img width="128" height="128" align="left" src="./media/datcom-backend.png">
 </p>
 
-### DSA and Maratona-src &nbsp;<img width="16" height="16" src="./media/c-original.svg">&nbsp;<img width="16" height="16" src="./media/ada.png" />
+### DATCOM Backend &nbsp;<img width="16" height="16" src="./media/go.png" />&nbsp;<img width="16" height="16" src="./media/gin.png" />
 
-Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="https://github.com/alexandreboutrik/maratona-src">maratona-src</a> repositories have learning purposes. I use them to learn more about competitive programming, data structures, algorithms and new languages (by solving problems in that language).
+<a href="https://github.com/alexandreboutrik/datcom_backend">This repository</a> contains a REST API backend implementation for the DATCOM website. The API provides endpoints for user registration, document uploading, and product listings from the DATCOM's store.
 
 ---
 
-### Early development phase
-
-<p>
-    <img width="128" height="128" align="left" src="./media/phoenix.png" />
-</p>
-
-### Phoenix BC &nbsp;<img width="16" height="16" src="./media/c-original.svg" />  
-
-<a href="https://github.com/alexandreboutrik/phoenix-bc">Phoenix BC</a> is a tool designed to verify if a program's behavior matches expected outputs. It executes automated tests by providing specific inputs and comparing the generated outputs against the expected results.
-
----
+### Early development phase (pre-alpha)
 
 <p>
     <img width="128" height="128" align="left" src="./media/ada-oil.png" />
@@ -48,6 +38,18 @@ Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="http
 ### AUI &nbsp;<img width="16" height="16" src="./media/ada.png" />
 
 <a href="https://github.com/alexandreboutrik/aui">AUI</a> is a very simple Text-based User Interface (TUI) for Ada written in Ada. It is still in a very early development stage and it lacks technologies like multiple buffers - it writes directly to the standard output using ASCII escape codes.
+
+---
+
+### Learning purposes
+
+<p>
+    <img width="128" height="128" align="left" src="./media/graph.png" />
+</p>
+
+### DSA and Maratona-src &nbsp;<img width="16" height="16" src="./media/c-original.svg">&nbsp;<img width="16" height="16" src="./media/ada.png" />
+
+Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="https://github.com/alexandreboutrik/maratona-src">maratona-src</a> repositories have learning purposes. I use them to learn more about competitive programming, data structures, algorithms and new languages (by solving problems in that language).
 
 ---
 

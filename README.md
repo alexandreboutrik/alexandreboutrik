@@ -53,6 +53,20 @@ Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="http
 
 ---
 
+## Organizations
+
+### Research group
+
+<p>
+    <img width="128" height="128" align="left" src="./media/pqc-group-2.png" />
+</p>
+
+### PQC Group (Post-Quantum Cryptography at UTFPR-TD)
+
+The mission of this research group is to contribute to Post-Quantum Cryptography (PQC) by studying concepts, applications and adoption strategies, focusing on - but not restricted to - the development and evaluation of PQC in network protocols. Currently working on the <a href="https://pqc-group-utfpr.github.io/projects.html">BBPQ</a> project.
+
+---
+
 ## Technologies
 
 ### Languages:

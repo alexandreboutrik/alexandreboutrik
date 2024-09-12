@@ -5,7 +5,7 @@
 
 ## Public Projects and Repositories
 
-### Stable release
+### Stable release (v1.1.0)
 
 <p>
     <img width="128" height="128" align="left" src="./media/lefrata.png" />
@@ -13,11 +13,11 @@
 
 ### Le Frata -tb &nbsp;<img width="16" height="16" src="./media/c-original.svg" />
 
-<a href="https://github.com/alexandreboutrik/lefrata-tb">Le Frata (-tb)</a> is a fork of a game project I developed at college with friends using the ncurses library. This fork aims to migrate the TUI from ncurses to termbox, a better and more versatile alternative.
+<a href="https://github.com/alexandreboutrik/lefrata-tb">Le Frata (-tb)</a> is a fork of a simple game project I developed at college with friends using the ncurses library. This fork aims to migrate the TUI from ncurses to termbox, a better and more versatile alternative.
 
 ---
 
-### Beta release
+### Beta release (v1.0.0-beta)
 
 <p>
     <img width="128" height="128" align="left" src="./media/datcom-backend.png">
@@ -25,24 +25,23 @@
 
 ### DATCOM Backend &nbsp;<img width="16" height="16" src="./media/go.png" />&nbsp;<img width="16" height="16" src="./media/gin.png" />
 
-<a href="https://github.com/alexandreboutrik/datcom_backend">This repository</a> contains a REST API backend implementation for the DATCOM website. The API provides endpoints for user registration, document uploading, and product listings from the DATCOM's store.
+<a href="https://github.com/alexandreboutrik/datcom_backend">This repository</a> contains a REST API backend implementation for the <a href="https://github.com/datcomtd">DATCOM</a> website. The API provides endpoints for user registration, document uploading, and product listings from the DATCOM's store.
 
 ---
 
-<!--
 ### Early development phase (pre-alpha)
 
 <p>
     <img width="128" height="128" align="left" src="./media/paxium.png" />
 </p>
 
-### Paxium &nbsp;<img width="16" height="16" src="./media/go.png />&nbsp;<img width="16" height="16" src="./media/openbsd.png" />
+### PAX &nbsp;<img width="16" height="16" src="./media/go.png" />
 
-Paxium is a modern package manager written in Golang for the OpenBSD operating system. It has a focus on simplicity and efficiency, and it also includes enhaced features like support for post-quantum cryptography and source-based building system. The name "Paxium" suggests peace of mind through seamless and future-proof package management. It is currently in the pre-alpha software designing stage.
+<a href="https://github.com/alexandreboutrik/paxium">Pax</a>, or Paxium, is a modern package manager developed in Golang for the <a href="https://www.openbsd.org">OpenBSD</a> operating system. Designed with simplicity and efficiency in mind, Paxium also integrates enhanced features such as support for post-quantum cryptography and a source-based build system (optionally acting as a <a href="https://www.openbsd.org/faq/ports/ports.html">ports</a> frontend). Currently, Paxium is in the pre-alpha design stage.
 
 ---
---->
 
+<!---
 ### Early development phase (pre-alpha)
 
 <p>
@@ -54,6 +53,7 @@ Paxium is a modern package manager written in Golang for the OpenBSD operating s
 <a href="https://github.com/alexandreboutrik/aui">AUI</a> is a very simple Text-based User Interface (TUI) for Ada written in Ada. It is still in a very early development stage and it lacks technologies like multiple buffers - it writes directly to the standard output using ASCII escape codes.
 
 ---
+--->
 
 ### Learning purposes
 

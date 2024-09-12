@@ -29,6 +29,20 @@
 
 ---
 
+<!--
+### Early development phase (pre-alpha)
+
+<p>
+    <img width="128" height="128" align="left" src="./media/paxium.png" />
+</p>
+
+### Paxium &nbsp;<img width="16" height="16" src="./media/go.png />&nbsp;<img width="16" height="16" src="./media/openbsd.png" />
+
+Paxium is a modern package manager written in Golang for the OpenBSD operating system. It has a focus on simplicity and efficiency, and it also includes enhaced features like support for post-quantum cryptography and source-based building system. The name "Paxium" suggests peace of mind through seamless and future-proof package management. It is currently in the pre-alpha software designing stage.
+
+---
+--->
+
 ### Early development phase (pre-alpha)
 
 <p>
@@ -63,7 +77,8 @@ Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="http
 
 ### PQC Group (Post-Quantum Cryptography at UTFPR-TD)
 
-The mission of this research group is to contribute to Post-Quantum Cryptography (PQC) by studying concepts, applications and adoption strategies, focusing on - but not restricted to - the development and evaluation of PQC in network protocols. Currently working on the <a href="https://pqc-group-utfpr.github.io/projects.html">BBPQ</a> project.
+The mission of <a href="https://pqc-group-utfpr.github.io/index.html">this research group</a> is to contribute to Post-Quantum Cryptography (PQC) by studying concepts, applications and adoption strategies, focusing on - but not restricted to - the development and evaluation of PQC in network protocols.  
+Currently working on the <a href="https://pqc-group-utfpr.github.io/projects.html">BBPQ</a> project.
 
 ---
 

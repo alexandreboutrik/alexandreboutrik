@@ -5,7 +5,7 @@
 
 ## Public Projects and Repositories
 
-### Stable release (v1.1.0)
+<!---### Stable release (v1.1.0)
 
 <p>
     <img width="128" height="128" align="left" src="./media/lefrata.png" />
@@ -15,7 +15,7 @@
 
 <a href="https://github.com/alexandreboutrik/lefrata-tb">Le Frata (-tb)</a> is a fork of a simple game project I developed at college with friends using the ncurses library. This fork aims to migrate the TUI from ncurses to termbox, a better and more versatile alternative.
 
----
+--->
 
 ### Beta release (v1.0.0-beta)
 
@@ -52,7 +52,6 @@
 
 <a href="https://github.com/alexandreboutrik/aui">AUI</a> is a very simple Text-based User Interface (TUI) for Ada written in Ada. It is still in a very early development stage and it lacks technologies like multiple buffers - it writes directly to the standard output using ASCII escape codes.
 
----
 --->
 
 ### Learning purposes

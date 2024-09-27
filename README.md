@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-alexandreboutrik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-boutrik/)](https://www.linkedin.com/in/alexandre-boutrik/)
 [![Instagram Badge](https://img.shields.io/badge/-alexboutrik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/alexboutrik/)](https://www.instagram.com/alexboutrik/)
 
-## Public Projects and Repositories
+## Projects and Repositories
 
 <!---### Stable release (v1.1.0)
 
@@ -20,12 +20,24 @@
 ### Beta release (v1.0.0-beta)
 
 <p>
-    <img width="128" height="128" align="left" src="./media/datcom-backend.png">
+    <img width="128" height="128" align="left" src="./media/datcom-backend.png" />
 </p>
 
-### DATCOM Backend &nbsp;<img width="16" height="16" src="./media/go.png" />&nbsp;<img width="16" height="16" src="./media/gin.png" />
+### DATCOM Backend &nbsp;<img width="16" height="16" src="./media/go.png" />
 
 <a href="https://github.com/alexandreboutrik/datcom_backend">This repository</a> contains a REST API backend implementation for the <a href="https://github.com/datcomtd">DATCOM</a> website. The API provides endpoints for user registration, document uploading, and product listings from the DATCOM's store.
+
+---
+
+### Early development phase (pre-alpha)
+
+<p>
+    <img width="128" height="128" align="left" src="./media/homburg.png" />
+</p>
+
+### Homburg &nbsp;<img width="16" height="16" src="./media/go.png" />&nbsp;,&nbsp;<img width="16" height="16" src="./media/react-js.png" />&nbsp;<img width="16" height="16" src="./media/rust.png" />
+
+<a href="https://github.com/alexandreboutrik/homburg">Homburg</a> is a backend solution for creating and managing forum platforms. It features a proof-of-concept authentication system that utilizes asymmetric post-quantum cryptography instead of traditional IDs and passwords, ensuring robust protection against spoofing attacks, including those originating from admins.
 
 ---
 

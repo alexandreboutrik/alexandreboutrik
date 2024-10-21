@@ -39,6 +39,7 @@
 
 <a href="https://github.com/alexandreboutrik/homburg">Homburg</a> is a backend solution for creating and managing forum platforms. It features a proof-of-concept authentication system that utilizes asymmetric post-quantum cryptography instead of traditional IDs and passwords, ensuring robust protection against spoofing attacks, including those originating from admins.
 
+<!---
 ---
 
 ### Early development phase (pre-alpha)
@@ -51,9 +52,9 @@
 
 <a href="https://github.com/alexandreboutrik/paxium">Pax</a>, or Paxium, is a modern package manager developed in Golang for the <a href="https://www.openbsd.org">OpenBSD</a> operating system. Designed with simplicity and efficiency in mind, Paxium also integrates enhanced features such as support for post-quantum cryptography and a source-based build system (optionally acting as a <a href="https://www.openbsd.org/faq/ports/ports.html">ports</a> frontend). Currently, Paxium is in the pre-alpha design stage.
 
----
+--->
 
-<!---
+---
 ### Early development phase (pre-alpha)
 
 <p>
@@ -64,7 +65,7 @@
 
 <a href="https://github.com/alexandreboutrik/aui">AUI</a> is a very simple Text-based User Interface (TUI) for Ada written in Ada. It is still in a very early development stage and it lacks technologies like multiple buffers - it writes directly to the standard output using ASCII escape codes.
 
---->
+---
 
 ### Learning purposes
 

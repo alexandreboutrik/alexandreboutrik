@@ -73,7 +73,7 @@
     <img width="128" height="128" align="left" src="./media/graph.png" />
 </p>
 
-### DSA and Maratona-src &nbsp;<img width="16" height="16" src="./media/c-original.svg">&nbsp;<img width="16" height="16" src="./media/ada.png" />
+### DSA and Maratona-src &nbsp;<img width="16" height="16" src="./media/c-original.svg">&nbsp;<img width="16" height="16" src="./media/ada.png" />&nbsp;<img width="16" height="16" src="./media/go.png" />
 
 Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="https://github.com/alexandreboutrik/maratona-src">maratona-src</a> repositories have learning purposes. I use them to learn more about competitive programming, data structures, algorithms and new languages (by solving problems in that language).
 
@@ -98,9 +98,9 @@ Currently working on the <a href="https://pqc-group-utfpr.github.io/projects.htm
 
 ### Languages:
 
-| C99 | Ada | Rust | Go | Python | Perl |
+| C99 | Ada | C3 | Go | Python | Perl |
 |:---:|:---:|:----:|:--:|:------:|:----:|
-| <img width="64" height="64" src="./media/c-original.svg" /> | <img width="64" height="64" src="./media/ada.png" /> | <img width="64" height="64" src="./media/rust.png" /> | <img width="64" height="64" src="./media/go.png" /> | <img width="64" height="64" src="./media/python.svg" /> | <img width="64" height="64" src="./media/perl.png" /> |
+| <img width="64" height="64" src="./media/c-original.svg" /> | <img width="64" height="64" src="./media/ada.png" /> | <img width="64" height="64" src="./media/c3.png" /> | <img width="64" height="64" src="./media/go.png" /> | <img width="64" height="64" src="./media/python.svg" /> | <img width="64" height="64" src="./media/perl.png" /> |
 
 ### OS:
 

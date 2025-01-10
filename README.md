@@ -35,9 +35,23 @@
     <img width="128" height="128" align="left" src="./media/homburg.png" />
 </p>
 
-### Homburg &nbsp;<img width="16" height="16" src="./media/go.png" />&nbsp;,&nbsp;<img width="16" height="16" src="./media/react-js.png" />&nbsp;<img width="16" height="16" src="./media/rust.png" />
+### Homburg &nbsp;<img width="16" height="16" src="./media/go.png" />&nbsp;,&nbsp;<img width="16" height="16" src="./media/react-js.png" />
 
 <a href="https://github.com/alexandreboutrik/homburg">Homburg</a> is a backend solution for creating and managing forum platforms. It features a proof-of-concept authentication system that utilizes asymmetric post-quantum cryptography instead of traditional IDs and passwords, ensuring robust protection against spoofing attacks, including those originating from admins.
+
+---
+
+### Early development phase (pre-alpha)
+
+<p>
+    <img width="128" height="128" align="left" src="./media/arena.png" />
+</p>
+
+### Arena &nbsp;<img width="16" height="16" src="./media/c-original.svg" />
+
+<a href="https://github.com/alexandreboutrik/arena">Arena</a> is a collection of Brazilian card games developed in C99 using the Raylib library, currently in its very early development phase. The first alpha release, planned for March 2025, will debut with the popular game Fodinha, with future updates set to include additional games.
+
+---
 
 <!---
 ---
@@ -54,7 +68,7 @@
 
 --->
 
----
+<!---
 ### Early development phase (pre-alpha)
 
 <p>
@@ -65,7 +79,7 @@
 
 <a href="https://github.com/alexandreboutrik/aui">AUI</a> is a very simple Text-based User Interface (TUI) for Ada written in Ada. It is still in a very early development stage and it lacks technologies like multiple buffers - it writes directly to the standard output using ASCII escape codes.
 
----
+--->
 
 ### Learning purposes
 

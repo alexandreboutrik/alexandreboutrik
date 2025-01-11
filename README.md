@@ -112,9 +112,9 @@ Currently working on the <a href="https://pqc-group-utfpr.github.io/projects.htm
 
 ### Languages:
 
-| C99 | Ada | C3 | Go | Python | Perl |
-|:---:|:---:|:----:|:--:|:------:|:----:|
-| <img width="64" height="64" src="./media/c-original.svg" /> | <img width="64" height="64" src="./media/ada.png" /> | <img width="64" height="64" src="./media/c3.png" /> | <img width="64" height="64" src="./media/go.png" /> | <img width="64" height="64" src="./media/python.svg" /> | <img width="64" height="64" src="./media/perl.png" /> |
+| C99 | Ada | C3 | Go | Python | Fasm | Perl |
+|:---:|:---:|:--:|:--:|:------:|:----:|:----:|
+| <img width="64" height="64" src="./media/c-original.svg" /> | <img width="64" height="64" src="./media/ada.png" /> | <img width="64" height="64" src="./media/c3.png" /> | <img width="64" height="64" src="./media/go.png" /> | <img width="64" height="64" src="./media/python.svg" /> | <img width="64" height="64" src="./media/assembly.png" /> | <img width="64" height="64" src="./media/perl.png" /> |
 
 ### OS:
 

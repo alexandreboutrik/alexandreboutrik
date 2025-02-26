@@ -104,7 +104,11 @@ Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="http
 ### PQC Group (Post-Quantum Cryptography at UTFPR-TD)
 
 The mission of <a href="https://pqc-group-utfpr.github.io/index.html">this research group</a> is to contribute to Post-Quantum Cryptography (PQC) by studying concepts, applications and adoption strategies, focusing on - but not restricted to - the development and evaluation of PQC in network protocols.  
-Currently working on the <a href="https://pqc-group-utfpr.github.io/projects.html">BBPQ</a> project.
+Currently working on the <a href="https://pqc-group-utfpr.github.io/projects.html">BBPQ</a> project.  
+
+:book:&nbsp;&nbsp;Articles:  
+- 2024-2025: _Two articles upcoming: one from the BBPQ project; one related to RSA_.  
+- 2023-2024: Generating KEM certificates using the ACME protocol (doi:10.29327/seisicite2024.966085).
 
 ---
 

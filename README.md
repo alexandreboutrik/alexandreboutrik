@@ -17,7 +17,7 @@
 
 --->
 
-### Beta release (v1.0.0-beta)
+### Beta release (v1.0.1-beta)
 
 <p>
     <img width="128" height="128" align="left" src="./media/datcom-backend.png" />

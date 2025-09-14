@@ -116,9 +116,9 @@ Currently working on the <a href="https://pqc-group-utfpr.github.io/projects.htm
 
 ### Languages:
 
-| C99 | Ada | Go | Python | Haskell | Fasm | Perl |
-|:---:|:---:|:--:|:------:|:-------:|:----:|:----:|
-| <img width="64" height="64" src="./media/c-original.svg" /> | <img width="64" height="64" src="./media/ada.png" /> | <img width="64" height="64" src="./media/go.png" /> | <img width="64" height="64" src="./media/python.svg" /> | <img width="64" height="64" src="./media/haskell.png" /> | <img width="64" height="64" src="./media/assembly.png" /> | <img width="64" height="64" src="./media/perl.png" /> |
+| C99 | Ada | Go | Python | Haskell | Fasm | Vue | Svelte |
+|:---:|:---:|:--:|:------:|:-------:|:----:|:---:|:------:|
+| <img width="64" height="64" src="./media/c-original.svg" /> | <img width="64" height="64" src="./media/ada.png" /> | <img width="64" height="64" src="./media/go.png" /> | <img width="64" height="64" src="./media/python.svg" /> | <img width="64" height="64" src="./media/haskell.png" /> | <img width="64" height="64" src="./media/assembly.png" /> | <img width="64" height="64" src="./media/vuejs.svg" /> | <img width="64" height="64" src="./media/svelte.svg" /> |
 
 ### OS:
 

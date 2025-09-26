@@ -54,32 +54,6 @@
 ---
 
 <!---
----
-
-### Early development phase (pre-alpha)
-
-<p>
-    <img width="128" height="128" align="left" src="./media/paxium.png" />
-</p>
-
-### PAX &nbsp;<img width="16" height="16" src="./media/go.png" />
-
-<a href="https://github.com/alexandreboutrik/paxium">Pax</a>, or Paxium, is a modern package manager developed in Golang for the <a href="https://www.openbsd.org">OpenBSD</a> operating system. Designed with simplicity and efficiency in mind, Paxium also integrates enhanced features such as support for post-quantum cryptography and a source-based build system (optionally acting as a <a href="https://www.openbsd.org/faq/ports/ports.html">ports</a> frontend). Currently, Paxium is in the pre-alpha design stage.
-
---->
-
-<!---
-### Early development phase (pre-alpha)
-
-<p>
-    <img width="128" height="128" align="left" src="./media/ada-oil.png" />
-</p>
-
-### AUI &nbsp;<img width="16" height="16" src="./media/ada.png" />
-
-<a href="https://github.com/alexandreboutrik/aui">AUI</a> is a very simple Text-based User Interface (TUI) for Ada written in Ada. It is still in a very early development stage and it lacks technologies like multiple buffers - it writes directly to the standard output using ASCII escape codes.
-
---->
 
 ### Learning purposes
 
@@ -91,7 +65,7 @@
 
 Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="https://github.com/alexandreboutrik/maratona-src">maratona-src</a> repositories have learning purposes. I use them to learn more about competitive programming, data structures, algorithms and new languages (by solving problems in that language).
 
----
+--->
 
 ## Organizations
 
@@ -108,7 +82,7 @@ Currently working on the <a href="https://pqc-group-utfpr.github.io/projects.htm
 
 :book:&nbsp;&nbsp;Articles:  
 - 2024-2025: _Two articles upcoming: one from the BBPQ project; one related to RSA_.  
-- 2023-2024: Generating KEM certificates using the ACME protocol (doi:10.29327/seisicite2024.966085).
+- 2023-2024: Generating KEM certificates for ACME (doi:10.29327/seisicite2024.966085).
 
 ---
 
@@ -120,6 +94,7 @@ Currently working on the <a href="https://pqc-group-utfpr.github.io/projects.htm
 |:---:|:---:|:--:|:------:|:-------:|:----:|:---:|:------:|
 | <img width="64" height="64" src="./media/c-original.svg" /> | <img width="64" height="64" src="./media/ada.png" /> | <img width="64" height="64" src="./media/go.png" /> | <img width="64" height="64" src="./media/python.svg" /> | <img width="64" height="64" src="./media/haskell.png" /> | <img width="64" height="64" src="./media/assembly.png" /> | <img width="64" height="64" src="./media/vuejs.svg" /> | <img width="64" height="64" src="./media/svelte.svg" /> |
 
+<!---
 ### OS:
 
 | Gentoo | OBSD | NixOS |
@@ -131,6 +106,7 @@ Currently working on the <a href="https://pqc-group-utfpr.github.io/projects.htm
 | Django | AdaWS | Gin | Git | PSQL | Docker |
 |:------:|:-----:|:---:|:---:|:----:|:------:|
 | <img width="64" height="64" src="./media/django.png" /> | <img width="64" height="64" src="./media/ada-aws.png" /> | <img width="64" height="64" src="./media/gin.png" /> | <img width="64" height="64" src="./media/git.svg" /> | <img width="64" height="64" src="./media/postgresql.svg" /> | <img width="64" height="64" src="./media/docker.png" /> |
+--->
 
 ---
 

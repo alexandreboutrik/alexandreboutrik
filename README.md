@@ -99,8 +99,8 @@ I worked on the <a href="https://pqc-group-utfpr.github.io/projects.html">BBPQ</
 ### Github stats:
 
 <div class="container">
-    <img style="width: auto; height: 128px;" class="img" src="https://github-readme-stats.vercel.app/api?username=alexandreboutrik&theme=vision-friendly-dark&hide=contribs,stars" />
+    <img style="width: auto; height: 128px;" class="img" src="./profile/stats.svg" />
 &nbsp;
 &nbsp;
-    <img style="width: auto; height: 128px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandreboutrik&layout=compact&langs_count=4&theme=vision-friendly-dark" />
+    <img style="width: auto; height: 128px" src="./profile/top-langs.svg" />
 </div>

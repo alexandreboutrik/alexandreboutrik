@@ -17,19 +17,21 @@
 
 --->
 
-### Beta release (v1.0.2-beta)
+### Proof of Concept (v0.1.0-poc)
 
 <p>
-    <img width="128" height="128" align="left" src="./media/datcom-backend.png" />
+    <img width="128" height="128" align="left" src="https://raw.githubusercontent.com/alexandreboutrik/bouclier-bleu/main/assets/BB-Logo.png" />
 </p>
 
-### DATCOM Backend &nbsp;<img width="16" height="16" src="./media/go.png" />
+### Bouclier Bleu &nbsp;<img width="16" height="16" src="./media/rust.png" />&nbsp;,&nbsp;<img width="14" height="14" src="./media/c-original.svg" />
 
-<a href="https://github.com/alexandreboutrik/datcom_backend">This repository</a> contains a REST API backend implementation for the <a href="https://github.com/datcomtd">DATCOM</a> website. The API provides endpoints for user registration, document uploading, and product listings from the DATCOM's store.
+<a href="https://github.com/alexandreboutrik/bouclier-bleu">Bouclier Bleu</a> is a modular Next-Generation Antivirus (NGAV) / Endpoint Detection and Response (EDR) system for Linux. It leverages eBPF (BPF LSM) in kernel-space and memory-safe Rust for userland. Its primary goals are to prevent ransomware and stop memory corruption (overflows/exploits).
+
+<br clear="left"/>
 
 ---
 
-### Early development phase (pre-alpha)
+### (PAUSED) Early development phase (pre-alpha)
 
 <p>
     <img width="128" height="128" align="left" src="./media/homburg.png" />
@@ -38,18 +40,6 @@
 ### Homburg &nbsp;<img width="16" height="16" src="./media/go.png" />&nbsp;,&nbsp;<img width="16" height="16" src="./media/react-js.png" />
 
 <a href="https://github.com/alexandreboutrik/homburg">Homburg</a> is a backend solution for creating and managing forum platforms. It features a proof-of-concept authentication system that utilizes asymmetric post-quantum cryptography instead of traditional IDs and passwords, ensuring robust protection against spoofing attacks, including those originating from admins.
-
----
-
-### Early development phase (pre-alpha)
-
-<p>
-    <img width="128" height="128" align="left" src="./media/arena.png" />
-</p>
-
-### Arena &nbsp;<img width="16" height="16" src="./media/c-original.svg" />
-
-<a href="https://github.com/alexandreboutrik/arena">Arena</a> is a collection of Brazilian card games developed in C99 using the Raylib library, currently in its very early development phase. The first alpha release, planned for March 2025, will debut with the popular game Fodinha, with future updates set to include additional games.
 
 ---
 
@@ -75,14 +65,10 @@ Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="http
     <img width="128" height="128" align="left" src="./media/pqc-group-2.png" />
 </p>
 
-### PQC Group (Post-Quantum Cryptography at UTFPR-TD)
+### (FORMER) PQC Group (Post-Quantum Cryptography at UTFPR-TD)
 
 The mission of <a href="https://pqc-group-utfpr.github.io/index.html">this research group</a> is to contribute to Post-Quantum Cryptography (PQC) by studying concepts, applications and adoption strategies, focusing on - but not restricted to - the development and evaluation of PQC in network protocols.  
-Currently working on the <a href="https://pqc-group-utfpr.github.io/projects.html">BBPQ</a> project.  
-
-:book:&nbsp;&nbsp;Articles:  
-- 2024-2025: _Two articles upcoming: one from the BBPQ project; one related to RSA_.  
-- 2023-2024: Generating KEM certificates for ACME (doi:10.29327/seisicite2024.966085).
+I worked on the <a href="https://pqc-group-utfpr.github.io/projects.html">BBPQ</a> project. 
 
 ---
 
@@ -90,9 +76,9 @@ Currently working on the <a href="https://pqc-group-utfpr.github.io/projects.htm
 
 ### Languages:
 
-| C99 | Ada | Go | Python | Haskell | Fasm | Vue | Svelte |
-|:---:|:---:|:--:|:------:|:-------:|:----:|:---:|:------:|
-| <img width="64" height="64" src="./media/c-original.svg" /> | <img width="64" height="64" src="./media/ada.png" /> | <img width="64" height="64" src="./media/go.png" /> | <img width="64" height="64" src="./media/python.svg" /> | <img width="64" height="64" src="./media/haskell.png" /> | <img width="64" height="64" src="./media/assembly.png" /> | <img width="64" height="64" src="./media/vuejs.svg" /> | <img width="64" height="64" src="./media/svelte.svg" /> |
+| C99 | Ada | Rust | Go | Python | Haskell | Fasm | Vue | Svelte |
+|:---:|:---:|:----:|:--:|:------:|:-------:|:----:|:---:|:------:|
+| <img width="64" height="64" src="./media/c-original.svg" /> | <img width="64" height="64" src="./media/ada.png" /> | <img width="64" height="64" src="./media/rust.png" /> | <img width="64" height="64" src="./media/go.png" /> | <img width="64" height="64" src="./media/python.svg" /> | <img width="64" height="64" src="./media/haskell.png" /> | <img width="64" height="64" src="./media/assembly.png" /> | <img width="64" height="64" src="./media/vuejs.svg" /> | <img width="64" height="64" src="./media/svelte.svg" /> |
 
 <!---
 ### OS:

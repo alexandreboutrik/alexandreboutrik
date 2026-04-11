@@ -17,7 +17,7 @@
 
 --->
 
-### Proof of Concept (v0.1.2-poc)
+### Alpha release (v0.1.2-alpha)
 
 <p>
     <img width="128" height="128" align="left" src="./media/enlarged_BB-Logo.png" />

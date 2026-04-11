@@ -20,7 +20,7 @@
 ### Proof of Concept (v0.1.1-poc)
 
 <p>
-    <img width="128" height="128" align="left" src="./media/BB-Logo.png" />
+    <img width="128" height="128" align="left" src="./media/enlarged_BB-Logo.png" />
 </p>
 
 ### Bouclier Bleu &nbsp;<img width="16" height="16" src="./media/rust.png" />&nbsp;,&nbsp;<img width="14" height="14" src="./media/c-original.svg" />

@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="98.56"
+          width="98.32"
           height="8"
           fill="#f1e05a"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="98.56"
+          x="98.32"
           y="0"
-          width="85.69"
+          width="85.47"
           height="8"
           fill="#555555"
         />
@@ -148,21 +148,21 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="184.25"
+          x="183.79"
           y="0"
-          width="33.01"
+          width="33.28"
           height="8"
-          fill="#89e051"
+          fill="#dea584"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="217.26"
+          x="217.07"
           y="0"
-          width="32.74"
+          width="32.93"
           height="8"
-          fill="#dea584"
+          fill="#89e051"
         />
       
       
@@ -171,28 +171,28 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 39.43%
+        JavaScript 39.33%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 34.27%
+        C 34.19%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#89e051" />
+      <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 13.20%
+        Rust 13.31%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#dea584" />
+      <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 13.10%
+        Shell 13.17%
       </text>
     </g>
   </g></g>

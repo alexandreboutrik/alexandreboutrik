@@ -17,7 +17,7 @@
 
 --->
 
-### Alpha release (v0.5.x-alpha)
+### Alpha release (v0.6.x-alpha)
 
 <p>
     <img width="128" height="128" align="left" src="./media/enlarged_BB-Logo.png" />

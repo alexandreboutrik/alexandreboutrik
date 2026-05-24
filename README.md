@@ -17,27 +17,21 @@
 
 --->
 
-### Alpha release (v0.12.x-alpha)
+### Bouclier Bleu (alpha) &nbsp;<img width="16" height="16" src="./media/rust.png" />&nbsp;,&nbsp;<img width="14" height="14" src="./media/c-original.svg" />
 
 <p>
     <img width="128" height="128" align="left" src="./media/enlarged_BB-Logo.png" />
 </p>
 
-### Bouclier Bleu &nbsp;<img width="16" height="16" src="./media/rust.png" />&nbsp;,&nbsp;<img width="14" height="14" src="./media/c-original.svg" />
-
 <a href="https://github.com/alexandreboutrik/bouclier-bleu">Bouclier Bleu</a> is a modular Next-Generation Antivirus (NGAV) / Endpoint Detection and Response (EDR) system for Linux. It leverages eBPF (BPF LSM) in kernel-space and memory-safe Rust for userland. Its primary goals are to prevent ransomware, stop exploits (such as memory corruption and race conditions), and reduce the system's attack surface.
-
-<br clear="left"/>
 
 ---
 
-### (PAUSED) Early development phase (pre-alpha)
+### [Paused] Homburg (pre-alpha) &nbsp;<img width="16" height="16" src="./media/go.png" />&nbsp;,&nbsp;<img width="16" height="16" src="./media/react-js.png" />
 
 <p>
     <img width="128" height="128" align="left" src="./media/homburg.png" />
 </p>
-
-### Homburg &nbsp;<img width="16" height="16" src="./media/go.png" />&nbsp;,&nbsp;<img width="16" height="16" src="./media/react-js.png" />
 
 <a href="https://github.com/alexandreboutrik/homburg">Homburg</a> is a backend solution for creating and managing forum platforms. It features a proof-of-concept authentication system that utilizes asymmetric post-quantum cryptography instead of traditional IDs and passwords, ensuring robust protection against spoofing attacks, including those originating from admins.
 
@@ -59,13 +53,11 @@ Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="http
 
 ## Organizations
 
-### (FORMER) Research group
+### [Former] Research group : PQC Group - Post-Quantum Cryptography at UTFPR-TD
 
 <p>
     <img width="128" height="128" align="left" src="./media/pqc-group-2.png" />
 </p>
-
-### PQC Group (Post-Quantum Cryptography at UTFPR-TD)
 
 The mission of <a href="https://pqc-group-utfpr.github.io/index.html">this research group</a> is to contribute to Post-Quantum Cryptography (PQC) by studying concepts, applications and adoption strategies, focusing on - but not restricted to - the development and evaluation of PQC in network protocols.  
 I worked on the <a href="https://pqc-group-utfpr.github.io/projects.html">BBPQ</a> project. 

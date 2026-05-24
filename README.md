@@ -13,7 +13,7 @@
 
 <a href="https://github.com/alexandreboutrik/bouclier-bleu">Bouclier Bleu</a> is a modular Next-Generation Antivirus (NGAV) / Endpoint Detection and Response (EDR) system for Linux. It leverages eBPF (BPF LSM) in kernel-space and memory-safe Rust for userland. Its primary goals are to prevent ransomware, stop exploits (such as memory corruption and race conditions), and reduce the system's attack surface.
 
----
+<br clear="all" />
 
 ### [Paused] Homburg (pre-alpha) &nbsp;<img width="16" height="16" src="./media/go.png" />&nbsp;·&nbsp;<img width="16" height="16" src="./media/react-js.png" />
 
@@ -23,7 +23,7 @@
 
 <a href="https://github.com/alexandreboutrik/homburg">Homburg</a> is a backend solution for creating and managing forum platforms. It features a proof-of-concept authentication system that utilizes asymmetric post-quantum cryptography instead of traditional IDs and passwords, ensuring robust protection against spoofing attacks, including those originating from admins.
 
----
+<br clear="all" />
 
 ## Organizations
 
@@ -36,7 +36,7 @@
 The mission of <a href="https://pqc-group-utfpr.github.io/index.html">this research group</a> is to contribute to Post-Quantum Cryptography (PQC) by studying concepts, applications and adoption strategies, focusing on - but not restricted to - the development and evaluation of PQC in network protocols.  
 I worked on the <a href="https://pqc-group-utfpr.github.io/projects.html">BBPQ</a> project. 
 
----
+<br clear="all" />
 
 ## Technologies
 
@@ -46,7 +46,7 @@ I worked on the <a href="https://pqc-group-utfpr.github.io/projects.html">BBPQ</
 |:---:|:---:|:----:|:--:|:------:|:-------:|:----:|:---:|:------:|
 | <img width="64" height="64" src="./media/c-original.svg" /> | <img width="64" height="64" src="./media/ada.png" /> | <img width="64" height="64" src="./media/rust.png" /> | <img width="64" height="64" src="./media/go.png" /> | <img width="64" height="64" src="./media/python.svg" /> | <img width="64" height="64" src="./media/haskell.png" /> | <img width="64" height="64" src="./media/assembly.png" /> | <img width="64" height="64" src="./media/vuejs.svg" /> | <img width="64" height="64" src="./media/svelte.svg" /> |
 
----
+<br clear="all" />
 
 ### Github stats:
 

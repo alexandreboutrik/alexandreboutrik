@@ -5,19 +5,7 @@
 
 ## Projects and Repositories
 
-<!---### Stable release (v1.1.0)
-
-<p>
-    <img width="128" height="128" align="left" src="./media/lefrata.png" />
-</p>
-
-### Le Frata -tb &nbsp;<img width="16" height="16" src="./media/c-original.svg" />
-
-<a href="https://github.com/alexandreboutrik/lefrata-tb">Le Frata (-tb)</a> is a fork of a simple game project I developed at college with friends using the ncurses library. This fork aims to migrate the TUI from ncurses to termbox, a better and more versatile alternative.
-
---->
-
-### Bouclier Bleu (alpha) &nbsp;<img width="16" height="16" src="./media/rust.png" />&nbsp;,&nbsp;<img width="14" height="14" src="./media/c-original.svg" />
+### Bouclier Bleu (alpha) &nbsp;<img width="16" height="16" src="./media/rust.png" />&nbsp;·&nbsp;<img width="14" height="14" src="./media/c-original.svg" />
 
 <p>
     <img width="128" height="128" align="left" src="./media/enlarged_BB-Logo.png" />
@@ -27,29 +15,15 @@
 
 ---
 
-### [Paused] Homburg (pre-alpha) &nbsp;<img width="16" height="16" src="./media/go.png" />&nbsp;,&nbsp;<img width="16" height="16" src="./media/react-js.png" />
+### [Paused] Homburg (pre-alpha) &nbsp;<img width="16" height="16" src="./media/go.png" />&nbsp;·&nbsp;<img width="16" height="16" src="./media/react-js.png" />
 
 <p>
-    <img width="128" height="128" align="left" src="./media/homburg.png" />
+    <img width="128" height="128" align="left" src="./media/homburg_nobg.png" />
 </p>
 
 <a href="https://github.com/alexandreboutrik/homburg">Homburg</a> is a backend solution for creating and managing forum platforms. It features a proof-of-concept authentication system that utilizes asymmetric post-quantum cryptography instead of traditional IDs and passwords, ensuring robust protection against spoofing attacks, including those originating from admins.
 
 ---
-
-<!---
-
-### Learning purposes
-
-<p>
-    <img width="128" height="128" align="left" src="./media/graph.png" />
-</p>
-
-### DSA and Maratona-src &nbsp;<img width="16" height="16" src="./media/c-original.svg">&nbsp;<img width="16" height="16" src="./media/ada.png" />&nbsp;<img width="16" height="16" src="./media/c3.png" />&nbsp;<img width="16" height="16" src="./media/go.png" />
-
-Both <a href="https://github.com/alexandreboutrik/dsa">dsa</a> and <a href="https://github.com/alexandreboutrik/maratona-src">maratona-src</a> repositories have learning purposes. I use them to learn more about competitive programming, data structures, algorithms and new languages (by solving problems in that language).
-
---->
 
 ## Organizations
 
@@ -71,20 +45,6 @@ I worked on the <a href="https://pqc-group-utfpr.github.io/projects.html">BBPQ</
 | C99 | Ada | Rust | Go | Python | Haskell | Fasm | Vue | Svelte |
 |:---:|:---:|:----:|:--:|:------:|:-------:|:----:|:---:|:------:|
 | <img width="64" height="64" src="./media/c-original.svg" /> | <img width="64" height="64" src="./media/ada.png" /> | <img width="64" height="64" src="./media/rust.png" /> | <img width="64" height="64" src="./media/go.png" /> | <img width="64" height="64" src="./media/python.svg" /> | <img width="64" height="64" src="./media/haskell.png" /> | <img width="64" height="64" src="./media/assembly.png" /> | <img width="64" height="64" src="./media/vuejs.svg" /> | <img width="64" height="64" src="./media/svelte.svg" /> |
-
-<!---
-### OS:
-
-| Gentoo | OBSD | NixOS |
-|:------:|:----:|:-----:|
-| <img width="64" height="64" src="./media/gentoo.svg" /> | <img width="64" height="64" src="./media/openbsd.png" /> | <img width="64" height="64" src="./media/nix.png" /> |
-
-### Other:
-
-| Django | AdaWS | Gin | Git | PSQL | Docker |
-|:------:|:-----:|:---:|:---:|:----:|:------:|
-| <img width="64" height="64" src="./media/django.png" /> | <img width="64" height="64" src="./media/ada-aws.png" /> | <img width="64" height="64" src="./media/gin.png" /> | <img width="64" height="64" src="./media/git.svg" /> | <img width="64" height="64" src="./media/postgresql.svg" /> | <img width="64" height="64" src="./media/docker.png" /> |
---->
 
 ---
 

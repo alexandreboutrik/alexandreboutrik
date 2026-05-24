@@ -17,7 +17,7 @@
 
 --->
 
-### Alpha release (v0.11.x-alpha)
+### Alpha release (v0.12.x-alpha)
 
 <p>
     <img width="128" height="128" align="left" src="./media/enlarged_BB-Logo.png" />
@@ -25,7 +25,7 @@
 
 ### Bouclier Bleu &nbsp;<img width="16" height="16" src="./media/rust.png" />&nbsp;,&nbsp;<img width="14" height="14" src="./media/c-original.svg" />
 
-<a href="https://github.com/alexandreboutrik/bouclier-bleu">Bouclier Bleu</a> is a modular Next-Generation Antivirus (NGAV) / Endpoint Detection and Response (EDR) system for Linux. It leverages eBPF (BPF LSM) in kernel-space and memory-safe Rust for userland. Its primary goals are to prevent ransomware and stop memory corruption (overflows/exploits).
+<a href="https://github.com/alexandreboutrik/bouclier-bleu">Bouclier Bleu</a> is a modular Next-Generation Antivirus (NGAV) / Endpoint Detection and Response (EDR) system for Linux. It leverages eBPF (BPF LSM) in kernel-space and memory-safe Rust for userland. Its primary goals are to prevent ransomware, stop exploits (such as memory corruption and race conditions), and reduce the system's attack surface.
 
 <br clear="left"/>
 

@@ -5,7 +5,7 @@
 
 ## Projects and Repositories
 
-### Bouclier Bleu (alpha) &nbsp;<img width="16" height="16" src="./media/rust.png" />&nbsp;·&nbsp;<img width="14" height="14" src="./media/c-original.svg" />
+### Bouclier Bleu &nbsp;<img width="16" height="16" src="./media/rust.png" />&nbsp;·&nbsp;<img width="14" height="14" src="./media/c-original.svg" />
 
 <p>
     <img width="128" height="128" align="left" src="./media/enlarged_BB-Logo.png" />
@@ -22,6 +22,16 @@
 </p>
 
 <a href="https://github.com/alexandreboutrik/jfabe">jfabe</a> is a Java library for Fast Ciphertext-Policy Attribute-based Encryption (CP-ABE). Designed with decentralized and distributed systems in mind, it is production-ready, offering CCA (Chosen Ciphertext Attack) security using AEAD-backed KEM transforms.
+
+<br clear="all" />
+
+### dassh &nbsp;<img width="16" height="16" src="./media/haskell.png" />&nbsp;·&nbsp;<img width="14" height="14" src="./media/c-original.svg" />
+
+<p>
+    <img width="128" height="128" align="left" src="./media/dassh.png" />
+</p>
+
+<a href="https://github.com/alexandreboutrik/dassh">dassh</a> is a live SSH monitoring dashboard that watches user commands and program output across multiple sessions in a real-time terminal interface. It leverages a custom eBPF program via a C shim in kernel-space for event interception, paired with a Haskell worker thread in userland that sanitizes and renders the captured traffic into dedicated terminal panes.
 
 <br clear="all" />
 

@@ -9,7 +9,7 @@
 
 <table>
     <tr>
-        <td width="128" align="center" valign="middle">
+        <td width="128" height="128" align="center" valign="middle">
             <img width="128" height="128" align="left" src="./media/enlarged_BB-Logo.png" />
         </td>
         <td valign="middle">
@@ -22,7 +22,7 @@
 
 <table>
     <tr>
-        <td width="128" align="center" valign="middle">
+        <td width="128" height="128" align="center" valign="middle">
             <img width="128" height="128" align="left" src="./media/jfabe.png" />
         </td>
         <td valign="middle">
@@ -35,7 +35,7 @@
 
 <table>
     <tr>
-        <td width="128" align="center" valign="middle">
+        <td width="128" height="128" align="center" valign="middle">
             <img width="128" height="128" align="left" src="./media/dassh.png" />
         </td>
         <td valign="middle">

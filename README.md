@@ -39,7 +39,7 @@
             <img width="128" height="128" align="left" src="./media/dassh.png" />
         </td>
         <td valign="middle">
-            <a href="https://github.com/alexandreboutrik/dassh">dassh</a> is a live SSH monitoring dashboard that watches user commands and program output across multiple sessions in a real-time terminal interface. It leverages a custom eBPF program via a C shim in kernel-space for event interception, paired with a Haskell worker thread in userland that sanitizes and renders the captured traffic into dedicated terminal panes.
+            <a href="https://github.com/alexandreboutrik/dassh">dassh</a> is a live SSH monitoring dashboard that watches user commands and program output across multiple sessions in a real-time terminal interface. It leverages BPF (C shim) in kernel-space for event interception, paired with a Haskell worker thread in userland that sanitizes and renders the captured traffic into dedicated terminal panes.
         </td>
     </tr>
 </table>

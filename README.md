@@ -44,6 +44,19 @@
     </tr>
 </table>
 
+### nix-dotfiles &nbsp;<kbd><img width="16" height="16" src="./media/nix.png" /></kbd>&nbsp;·&nbsp;<kbd><img width="14" height="14" src="./media/lua.svg" /></kbd>
+
+<table>
+    <tr>
+        <td width="128" height="128" align="center" valign="middle">
+            <img width="128" height="128" align="left" src="./media/nix-dotfiles.jpg" />
+        </td>
+        <td valign="middle">
+            <a href="https://github.com/alexandreboutrik/nix-dotfiles">nix-dotfiles</a> is a reproducible, hardened, multi-host NixOS configuration built with Nix Flakes and Home Manager. It features aggressive kernel-to-application security and a custom development environment tailored for my use case.
+        </td>
+    </tr>
+</table>
+
 <!---
 <br clear="all" />
 ### [Paused] Homburg (pre-alpha) &nbsp;<img width="16" height="16" src="./media/go.png" />&nbsp;·&nbsp;<img width="16" height="16" src="./media/react-js.png" />

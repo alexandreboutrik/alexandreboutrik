@@ -10,7 +10,7 @@
 <table>
     <tr>
         <td width="128" height="128" align="center" valign="middle">
-            <img width="128" height="128" align="left" src="./media/enlarged_BB-Logo-white.png" />
+            <img width="128" height="128" align="left" src="./media/enlarged_BB-Logo.png" />
         </td>
         <td valign="middle">
             <a href="https://github.com/alexandreboutrik/bouclier-bleu">Bouclier Bleu</a> is a modular Next-Generation Antivirus (NGAV) / Endpoint Detection and Response (EDR) system for Linux. It leverages eBPF (BPF LSM) in kernel-space and memory-safe Rust for userland. Its primary goals are to prevent ransomware, stop exploits (such as memory corruption and race conditions), and reduce the system's attack surface.
@@ -36,7 +36,7 @@
 <table>
     <tr>
         <td width="128" height="128" align="center" valign="middle">
-            <img width="128" height="128" align="left" src="./media/dassh-white.png" />
+            <img width="128" height="128" align="left" src="./media/dassh.png" />
         </td>
         <td valign="middle">
             <a href="https://github.com/alexandreboutrik/dassh">dassh</a> is a live SSH monitoring dashboard that watches user commands and program output across multiple sessions in a real-time terminal interface. It leverages BPF (C shim) in kernel-space for event interception, paired with a Haskell worker thread in userland that sanitizes and renders the captured traffic into dedicated terminal panes.
@@ -49,7 +49,7 @@
 <table>
     <tr>
         <td width="128" height="128" align="center" valign="middle">
-            <img width="128" height="128" align="left" src="./media/nix-dotfiles.jpg" />
+            <img width="128" height="128" align="left" src="./media/nix-dotfiles.png" />
         </td>
         <td valign="middle">
             <a href="https://github.com/alexandreboutrik/nix-dotfiles">nix-dotfiles</a> is a reproducible, hardened, multi-host NixOS configuration built with Nix Flakes and Home Manager. It features aggressive kernel-to-application security and a custom development environment tailored for my use case.
